@@ -91,7 +91,7 @@ body {
   }
   .ftd {
     border: 1px solid;
-    font-size: small;
+    font-size: smaller;
     font-style: normal;
     font-display: flex;
   }
