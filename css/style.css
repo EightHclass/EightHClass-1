@@ -16,7 +16,7 @@ body {
 
 .navbar-ul {
     background-color: grey;
-    height: 6vh;
+    height: 4vh;
     display: flex;
     justify-content: center;
     align-items: center;
